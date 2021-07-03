@@ -20,7 +20,7 @@ def get_classifier():
 def FaceDetector(name,scale=1.1,th1=0.85,th2=0.2,repeat=12,method=1):
     classifier=get_classifier()
     try:
-        img1_color=cv2.imread(name+".jpg",cv2.IMREAD_COLOR)
+        img1_color=cv2.imread("input images/"+name+".jpg",cv2.IMREAD_COLOR)
         img1=cv2.cvtColor(img1_color,cv2.COLOR_BGR2GRAY)
     except:
         print("the image not found")
