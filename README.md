@@ -13,3 +13,15 @@ https://drive.google.com/file/d/1w0o17Eu-_p-kRe_Vg-ANHOkEFgRKm8NG/view?usp=shari
 
 face Dataset:
 http://vis-www.cs.umass.edu/lfw/lfw.tgz
+
+
+Results :
+
+![title](./results/res4.jpg)
+
+
+![title](./results/res5.jpg)
+
+
+
+![title](./results/res6.jpg)
